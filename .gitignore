@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+runtime/data/*.sqlite3
+runtime/logs/*
+runtime/reports/*.md
+!runtime/reports/.keep
+!runtime/logs/.keep
+!runtime/data/.keep
+
